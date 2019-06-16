@@ -1,0 +1,134 @@
+{
+  "Employees" : [
+    {
+      "userId":"mElder",
+      "jobTitleName":"Manager",
+      "firstName":"Mary",
+      "lastName":"Elder",
+      "preferredFullName":"Mary Elder",
+      "status":"Full Time",
+      "hours":"37.5",
+      "availability": "All"
+    },
+    {
+      "userId":"cOswald",
+      "jobTitleName":"Supervisor",
+      "firstName":"Cindy",
+      "lastName":"Oswald",
+      "preferredFullName":"Cindy Oswald",
+      "status":"Full Time",
+      "hours":"37.5",
+      "availability": "All"
+    },
+    {
+      "userId":"aClow",
+      "jobTitleName":"Supervisor",
+      "firstName":"Annette",
+      "lastName":"Clow",
+      "preferredFullName":"Annette Clow",
+      "status":"Full Time",
+      "hours":"37.5",
+      "availability": "All"
+    },
+    {
+      "userId":"gHim",
+      "jobTitleName":"Supervisor",
+      "firstName":"Giselle",
+      "lastName":"Denis-Him",
+      "preferredFullName":"Giselle Denis-Him",
+      "status":"Full Time",
+      "hours":"37.5",
+      "availability": "All"
+    },
+    {
+      "userId":"jGeise",
+      "jobTitleName":"Supervisor",
+      "firstName":"Joaine",
+      "lastName":"Geise",
+      "preferredFullName":"Joaine Geise",
+      "status":"Part Time",
+      "hours":"17.5",
+      "availability": "Closer"
+    },{
+      "userId":"jJohnk",
+      "jobTitleName":"Cashier",
+      "firstName":"Joyce",
+      "lastName":"Johnk",
+      "preferredFullName":"Joyce Johnk",
+      "status":"Part Time",
+      "hours":"15",
+      "availability": "All"
+    },{
+      "userId":"aSchlacter",
+      "jobTitleName":"Cashier",
+      "firstName":"",
+      "lastName":"",
+      "preferredFullName":"Alethia Sclacter",
+      "status":"Part Time",
+      "hours":"20",
+      "availability": "Closer"
+    },{
+      "userId":"tWhite",
+      "jobTitleName":"Cashier",
+      "firstName":"Tori",
+      "lastName":"White",
+      "preferredFullName":"Tori White",
+      "status":"Part Time",
+      "hours":"24.5",
+      "availability": "All"
+    },{
+      "userId":"sSchumacher",
+      "jobTitleName":"Cashier",
+      "firstName":"Sydney",
+      "lastName":"Schumacher",
+      "preferredFullName":"Sydney Schumacher",
+      "status":"Part Time",
+      "hours":"30",
+      "availability": "All"
+    },{
+      "userId":"madison",
+      "jobTitleName":"Cashier",
+      "firstName":"Madison",
+      "lastName":"S",
+      "preferredFullName":"Madison S",
+      "status":"Part Time",
+      "hours":"20",
+      "availability": "Mid"
+    },{
+      "userId":"cLevering",
+      "jobTitleName":"Cashier",
+      "firstName":"Chris",
+      "lastName":"Levering",
+      "preferredFullName":"Chris Levering",
+      "status":"Part Time",
+      "hours":"20",
+      "availability": "Closer"
+    },{
+      "userId":"cKyle",
+      "jobTitleName":"Cashier",
+      "firstName":"Chloe",
+      "lastName":"Kyle",
+      "preferredFullName":"Chloe Kyle",
+      "status":"Part Time",
+      "hours":"20",
+      "availability": "Mid"
+    },{
+      "userId":"nDelane",
+      "jobTitleName":"Cashier",
+      "firstName":"Nathan",
+      "lastName":"Delane",
+      "preferredFullName":"Nathan Delane",
+      "status":"Part Time",
+      "hours":"15",
+      "availability": "All"
+    },{
+      "userId":"eBeauchaine",
+      "jobTitleName":"Cashier",
+      "firstName":"Ella",
+      "lastName":"Beauchaine",
+      "preferredFullName":"Ella Beauchaine",
+      "status":"Part Time",
+      "hours":"20",
+      "availability": "Mid"
+    }]}
+
